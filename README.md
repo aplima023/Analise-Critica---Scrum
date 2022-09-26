@@ -1,5 +1,7 @@
 # Analise Critica - Case de sucesso Sony
 
+Desafio de Projeto realizado para a certificação Scrum Master da DIO, onde a tarefa era realizar analise critica de um case.
+
 A Sony é uma multinacional e esta posicionada para ser umas das maiores empresas de consumo no mundo
 
 
